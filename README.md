@@ -16,6 +16,23 @@
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://honjae-web.pages.dev"><img src="./assets/honjae.jpg" alt="혼재 홍보 사이트 메인 화면" width="100%"></a>
+      <h3><a href="https://honjae-web.pages.dev">혼재 HONJAE</a></h3>
+      한 몸에 세 세계의 자아가 깃든 캐릭터들이 싸우는 3:3 점령전 FPS입니다. Team OFF LIMITS 졸업전시작으로, 2026년 11월 26일부터 29일까지 경기아트센터에서 플레이 테스트를 엽니다.<br>
+      <sub>졸업전시 · Unreal Engine · <a href="https://honjae-web.pages.dev">홍보 사이트</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ordo-coral.vercel.app"><img src="./assets/ordo.jpg" alt="Ordo 랜딩 페이지" width="100%"></a>
+      <h3><a href="https://ordo-coral.vercel.app">Ordo</a></h3>
+      팀의 코드·작업·회의를 한곳에 모으고, 쌓인 기록을 근거로 @Ordo가 질문에 답하는 팀 운영 OS입니다. 창업 워크플로우 도구 SOS를 이어서 만들고 있습니다.<br>
+      <sub>웹 · 데스크톱 v0.3.0 · <a href="https://ordo-coral.vercel.app">랜딩 페이지</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://www.dima-nwcn.com"><img src="./assets/nwcn.jpg" alt="NWCN 메인 화면" width="100%"></a>
       <h3><a href="https://github.com/dudejrtjdrp/NCWNWeb">NWCN</a></h3>
@@ -37,24 +54,7 @@
   </tr>
 </table>
 
-### 지금 만들고 있는 것
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Ordo</b> <sub>비공개 · 데스크톱 v0.3.0</sub><br>
-      팀의 코드·작업·회의를 한곳에 모으고, 쌓인 기록을 근거로 질문에 답하는 팀 운영 데스크톱 앱입니다. 창업 워크플로우 도구 SOS를 이어서 만들고 있습니다.
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/dudejrtjdrp/Mealing">Mealing</a></b> <sub>TestFlight 테스트 중</sub><br>
-      외식·편의점 메뉴를 고를 때 오늘 섭취량 기준으로 먹어도 되는지 알려 주는 식단 관리 iOS 앱입니다. 창업공모전 팀에서 앱 설계·개발을 맡았습니다.
-    </td>
-    <td width="33%" valign="top">
-      <b>혼재</b> <sub>졸업전시</sub><br>
-      언리얼 엔진으로 만드는 3:3 FPS 게임입니다.
-    </td>
-  </tr>
-</table>
+지금은 외식·편의점 메뉴를 고를 때 오늘 섭취량 기준으로 먹어도 되는지 알려 주는 식단 관리 iOS 앱 [Mealing](https://github.com/dudejrtjdrp/Mealing)도 만들고 있습니다. (창업공모전 팀, 앱 설계·개발 담당, TestFlight 테스트 중)
 
 ### 경력
 
